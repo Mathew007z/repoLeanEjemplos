@@ -1,0 +1,17 @@
+
+
+
+
+.productos{
+    border: 1px solid #000;
+    padding: 50px 10px 50px 10px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 200px;
+    margin: 0 auto;
+    margin-top: 2em;
+    flex-direction: column;
+    border-radius: 20px;
+}
